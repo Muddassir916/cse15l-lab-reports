@@ -28,6 +28,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+Enter `yes`, and it should not reappear frequently if connecting to the same server. Next, it will prompt you to enter your password. **Remember: When writing the password, it will seem like you are not typing, but it is invisible, so make sure you put the password in carefully!**
 
 ## Step 3: Trying Some Commands
 Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
