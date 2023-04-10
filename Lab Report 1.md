@@ -7,7 +7,7 @@ Today we will show you how to successfully log into a course-specific account on
 
 ---
 ## Step 1: Installing Visual Studio Code
-Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to: 
+Visit the VScode website [VSCode Download](https://visualstudio.microsoft.com/downloads/) and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to: 
 
 ## Step 2: Remotely Connecting
 Once VScode is up and running, now we must connect to the remote server. To do so, we need to first install git, which will be very useful for connecting:
@@ -52,6 +52,11 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 
 ```
+This is what it looks like in the terminal:
+
+Now we are successfully connected to the remote server! Let's get to testing by running some commands
+
 
 ## Step 3: Trying Some Commands
-Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
+Try running commands on both your own computer and the remote computer, and see what happens; Do they successfully return an output, do they return errors, etc.
+
