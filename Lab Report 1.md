@@ -26,8 +26,8 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 
-Are you sure you want to continue connecting (yes/no/[fingerprint])?```
-
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
 
 ## Step 3: Trying Some Commands
 Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
