@@ -53,7 +53,7 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 
 ```
 This is what it looks like in the terminal:
-
+![Image](Screenshot_2023-04-09_202044.png)
 Now we are successfully connected to the remote server! Let's get to testing by running some commands
 
 
@@ -66,5 +66,8 @@ Try:
 * `ls <directory> where <directory> is `
 * `cd`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+![Image](Screenshot_2023-04-09_203824.png)
+![Image](Screenshot_2023-04-09_203812.png)
 
 These commands are run on both the local computer and the remote computer, and it seems like it works!
