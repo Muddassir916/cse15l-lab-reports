@@ -20,7 +20,8 @@ After downloading and going through the full installation, return to VScode and 
 
 This is your first time connecting to a new server, so you will get a message similar to:
 
-```⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+```
+⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 
