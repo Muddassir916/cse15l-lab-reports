@@ -67,3 +67,4 @@ Try:
 * `cd`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
+These commands are run on both the local computer and the remote computer, and it seems like it works!
