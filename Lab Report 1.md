@@ -70,6 +70,7 @@ Try:
 * `cd`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
+
 ![Image](Screenshot_2023-04-09_203824.png)
 ![Image](Screenshot_2023-04-09_203812.png)
 
