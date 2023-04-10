@@ -18,6 +18,13 @@ After downloading and going through the full installation, return to VScode and 
 
 `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
 
+This is your first time connecting to a new server, so you will get a message similar to:
+
+`⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?`
+
 
 ## Step 3: Trying Some Commands
 Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
