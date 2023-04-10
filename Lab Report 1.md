@@ -10,7 +10,10 @@ Today we will show you how to successfully log into a course-specific account on
 Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to: 
 
 ## Step 2: Remotely Connecting
-Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
+Once VScode is up and running, now we must connect to the remote server. To do so, we need to first install git, which will be very useful for connecting:
+[git](https://gitforwindows.org/)
+After downloading and going through the full installation, return to VScode and open a new terminal. This can be done by going: Terminal → New Terminal menu option, or using the shortcut Ctrl or Command + `. This is where you will connect to the server using your login information. After opening the git bash terminal copy and paste this command (not including the $ sign!). Before inputting the command, make sure to replace ‘zz’ with your course-specific account letters:
+
 
 ## Step 3: Trying Some Commands
 Visit the VScode website https://visualstudio.microsoft.com/downloads/ and follow the instructions to download the software on your computer. After installing it fully and opening it, you should see a screen similar to:
