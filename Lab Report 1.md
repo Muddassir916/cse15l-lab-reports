@@ -53,7 +53,9 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 
 ```
 This is what it looks like in the terminal:
+
 ![Image](Screenshot_2023-04-09_202044.png)
+
 Now we are successfully connected to the remote server! Let's get to testing by running some commands
 
 
