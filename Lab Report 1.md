@@ -60,10 +60,10 @@ Now we are successfully connected to the remote server! Let's get to testing by 
 ## Step 3: Trying Some Commands
 Try running commands on both your own computer and the remote computer, and see what happens; Do they successfully return an output, do they return errors, etc.
 Try:
-* ls -lat
-* ls -a
-* cd ~
-* ls <directory> where <directory> is 
-* cd
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* `ls -lat`
+* `ls -a`
+* `cd ~`
+* `ls <directory> where <directory> is `
+* `cd`
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
