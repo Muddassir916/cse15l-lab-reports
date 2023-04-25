@@ -76,7 +76,7 @@ Try:
 * `cd ~`
 * `ls <directory> where <directory> is `
 * `cd`  (`cd`= used to change directories)
-* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`  (`cat` = used to read file parametrs and write them out)
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`  (`cat` = used to read file parameters and write them out)
 
 
 ![Image](Screenshot_2023-04-09_203824.png)
