@@ -19,7 +19,7 @@ After downloading and going through the full installation, return to VScode and 
 
 [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
-Once you find you account, you will have to reset your password using the following website. **Remember to each instruction carefully!**
+Once you find you account, you will have to reset your password using the following website. **Remember to each read instruction carefully!**
 
 [Password Reset Guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 
@@ -71,12 +71,12 @@ Now we are successfully connected to the remote server! Let's get to testing by 
 ## Step 3: Trying Some Commands
 Try running commands on both your own computer and the remote computer, and see what happens; Do they successfully return an output, do they return errors, etc.
 Try:
-* `ls -lat`
+* `ls -lat`(ls = used to list files in current directory)
 * `ls -a`
-* `cd ~`
+* `cd ~`(cd = used to change directories)
 * `ls <directory> where <directory> is `
 * `cd`
-* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`(cat = used to read file parametrs and write them out)
 
 
 ![Image](Screenshot_2023-04-09_203824.png)
