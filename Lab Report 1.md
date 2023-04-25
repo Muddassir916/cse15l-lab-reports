@@ -15,7 +15,15 @@ Once VScode is up and running, now we must connect to the remote server. To do s
 
 [git Download](https://gitforwindows.org/)
 
-After downloading and going through the full installation, return to VScode and open a new terminal. This can be done by going: Terminal → New Terminal menu option, or using the shortcut Ctrl or Command + `. This is where you will connect to the server using your login information. After opening the git bash terminal copy and paste this command (not including the $ sign!). Before inputting the command, make sure to replace ‘zz’ with your course-specific account letters:
+After downloading and going through the full installation, return to VScode and open a new terminal. This can be done by going: Terminal → New Terminal menu option, or using the shortcut Ctrl or Command + `. This is where you will connect to the server using your login information. **Remember: This account is different than your standard UCSD account!** To access it head to this website: 
+
+[Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
+
+Once you find you account, you will have to reset your password using the following website. **Remember to each instruction carefully!**
+
+[Password Reset Guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
+
+After opening the git bash terminal copy and paste this command (not including the $ sign!). Before inputting the command, make sure to replace ‘zz’ with your course-specific account letters:
 
 `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
 
