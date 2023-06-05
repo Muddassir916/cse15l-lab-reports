@@ -6,6 +6,10 @@ For the purpose of learning how to save modifications of a repository, we will w
 
 As always, launch your terminal and log in using the command `ssh cs15lsp23zz@ieng6.ucsd.edu` (the `zz` being replaced by the account-specific combination). If you have set up a SSH key for your `ieng6` account, you will be logged in automatically afterward, otherwise, enter your password to access the remote server.  
 
+![Image](sshlogin.png)
+
+(Since we did not have a SSH key setup, it prompted me to enter my password. Otherwise, it would have logged in directly)
+
 After we have successfully logged in, it is time to clone the repository using the SSH option for cloning on the repository:
 ![Image](clonepic.png)
 
